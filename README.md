@@ -60,7 +60,7 @@ The objective is to transform raw transaction data into **meaningful fraud insig
 ---
 
 ## 📸 Dashboard Preview
-*(Add dashboard screenshot here)*
+![FinTech-Fraud-Analytics](images_dashboard.png)
 
 ---
 
