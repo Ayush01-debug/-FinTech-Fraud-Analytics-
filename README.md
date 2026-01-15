@@ -1,4 +1,4 @@
-# FinTech Fraud Analytics Dashboard
+# FinTech Fraud Analytics Project
 
 ---
 
