@@ -1,80 +1,71 @@
-FinTech-Fraud-Analytics
+# FinTech Fraud Analytics Dashboard
 
-📌 Project Description
+---
 
-This project focuses on analyzing fraudulent digital transactions using SQL and Power BI.
-The aim is to understand fraud patterns, identify high-risk transactions, and support data-driven fraud prevention decisions.
+## 📌 Project Overview
+This project focuses on analyzing **fraudulent digital transactions** to understand fraud patterns, high-risk behavior, and financial loss.  
+The objective is to transform raw transaction data into **meaningful fraud insights** using **SQL and Power BI**.
 
-🎯 Objective
+---
 
-Analyze transaction data to detect fraud patterns
+## 🎯 Project Objectives
+- Analyze transaction data to detect fraud patterns  
+- Identify high-risk transactions based on behavior and device trust  
+- Compare fraud across domestic and foreign transactions  
+- Visualize fraud insights using an interactive dashboard  
 
-Identify high-risk behavior based on transaction type, device trust, and time
+---
 
-Visualize fraud insights using an interactive Power BI dashboard
+## 🛠 Tools & Technologies Used
+- **MySQL** – Data cleaning, transformation, and analysis  
+- **Power BI** – Interactive dashboard creation and visualization  
+- **Excel / CSV** – Initial data inspection and data transfer  
 
-🛠 Tools Used
+---
 
-MySQL – Data storage and analysis
+## 📊 Key KPIs
+- **Total Transactions** – Overall number of transactions  
+- **Fraud Transactions** – Total fraudulent transactions  
+- **Fraud Rate (%)** – Percentage of fraud transactions  
+- **Total Fraud Loss** – Financial loss due to fraud  
 
-Power BI – Dashboard creation and visualization
+---
 
-Excel / CSV – Data handling
+## 🔍 Analysis Performed
+- Fraud comparison between **Domestic vs Foreign** transactions  
+- Fraud analysis by **Device Trust Level**  
+- Fraud trends based on **Transaction Hour**  
+- Fraud rate by **Merchant Category**  
+- Fraud impact due to **Location Mismatch**  
 
-📊 Key Metrics
+---
 
-Total Transactions
+## 📈 Dashboard Highlights
+- One-page executive-level dashboard  
+- Interactive slicers for:
+  - Merchant Category  
+  - Transaction Hour  
+  - Device Trust Level  
+  - Transaction Type  
+- Clean and business-focused visuals for quick decision-making  
 
-Fraud Transactions
+---
 
-Fraud Rate (%)
+## 🧠 Key Insights
+- Low-trust devices show significantly higher fraud rates  
+- Foreign transactions are more prone to fraud than domestic ones  
+- Fraud activity increases during late-night hours  
+- A small number of transactions contribute to most fraud losses  
 
-Total Fraud Loss
+---
 
-🔍 Analysis Performed
+## 📸 Dashboard Preview
+*(Add dashboard screenshot here)*
 
-Fraud comparison between Domestic vs Foreign transactions
+---
 
-Fraud analysis based on Device Trust Level
+## 👤 Author
+**Ayush Raturi**  
+Aspiring Data Analyst | MIS & Business Analytics  
+Skills: SQL, Power BI, Excel, Data Analysis
 
-Fraud trends by Transaction Hour
-
-Fraud rate by Merchant Category
-
-Fraud due to Location Mismatch
-
-📈 Dashboard Highlights
-
-Interactive slicers for:
-
-Merchant Category
-
-Transaction Hour
-
-Device Trust Level
-
-Transaction Type
-
-Clean one-page executive dashboard
-
-Easy-to-understand fraud insights
-
-🧠 Key Insights
-
-Low-trust devices show higher fraud rates
-
-Foreign transactions are riskier than domestic ones
-
-Fraud occurs more frequently during late hours
-
-Few transactions contribute to most fraud loss
-
-📸 Dashboard Preview
-
-(Add dashboard screenshot here)
-
-👤 Author
-
-Ayush Raturi
-Aspiring Data Analyst | MIS & Business Analytics
-Skills: SQL, Power BI, Excel
